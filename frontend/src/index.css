@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: black linear-gradient(89.7deg, rgb(0, 0, 0) -10.7%, rgb(53, 92, 125) 88.8%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#loginCard{
+  margin-top:1%;
+}
+#formCard{
+  text-align: center;
+  margin-top:1%;
+  background: rgb(254,254,254);
+  background: linear-gradient(0deg, rgba(254,254,254,1) 0%, rgba(199,220,222,1) 0%, rgba(207,234,236,1) 0%, rgba(255,255,255,1) 100%);
+}
