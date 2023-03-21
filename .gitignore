@@ -17,3 +17,5 @@ backend/target/
 
 
 backend/HELP.md
+
+*.gz
